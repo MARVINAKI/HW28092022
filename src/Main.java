@@ -83,6 +83,7 @@ public class Main {
             default:
                 System.out.println("Проверьте номер введеного месяца");
         }
+        System.out.println();
 
     }
 }
